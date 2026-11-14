@@ -67,7 +67,7 @@ I'm excited to work in an international environment, develop my technical skills
 
 ## 📫 Let's Connect
 
-- **GitHub:** [sarahoulmaki-png](https://github.com/sarahoulmaki-png)
+- **GitHub:** [saraoulmaki](https://github.com/saraoulmaki)
 - **LinkedIn:** www\.linkedin.com/in/sara-oulmaki
 - **Portfolio:** Coming soon
 
