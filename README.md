@@ -1,27 +1,76 @@
-# Hi, I'm Sara! 👋
+# Hi there, I'm Sara! 👋
 
-🎓 Engineering student at **Polytech Tours**, France, specializing in Industrial IT and Embedded Systems.
+### Engineering Student | Embedded Systems • Electronics • Software Development
 
-💻 Passionate about **FPGA design, digital electronics, embedded programming, and hardware/software development**.
+I'm a French engineering student at **Polytech Tours**, specializing in Industrial Computing and Embedded Systems.
 
-### 🔧 Technical Skills
+I enjoy designing, programming, and experimenting with technology, from microcontrollers and electronic circuits to software applications and industrial systems.
 
-- **Hardware & FPGA:** VHDL, Quartus, FPGA/CPLD, digital electronics
-- **Embedded Systems:** STM32, C/C++, FreeRTOS
-- **Communication Protocols:** UART, SPI, I²C, CAN, MQTT
-- **Software & Tools:** Python, Qt, Git, MATLAB
+I'm particularly interested in projects that combine **hardware and software**, where I can explore new technologies, solve technical challenges, and turn ideas into working prototypes.
 
-### 🚀 What I'm Working On
+## 🛠️ Technical Skills
 
-- FPGA-based hardware development and verification
-- Embedded systems and electronics projects
-- Building my personal engineering portfolio
+**Programming & Development**
 
-### 🌍 Currently Looking For
+- C / C++, Python, VHDL, VB.NET, SQL
+- Qt, Git, Linux
 
-I'm interested in **international engineering internships for Summer 2027**, particularly in FPGA, embedded systems, and digital hardware development.
+**Embedded Systems & Electronics**
 
-### 🔗 Connect With Me
+- STM32, Raspberry Pi, FPGA/CPLD
+- FreeRTOS, digital and analog electronics
+- UART, SPI, I²C, CAN, MQTT
 
-- 💼 LinkedIn — Coming soon
-- 🌐 Portfolio — Coming soon
+**Industrial Computing & Automation**
+
+- PLCs, industrial communication
+- Industrial supervision and automation
+- SQL Server, data acquisition and traceability
+
+**Design & Engineering Tools**
+
+- Quartus, STM32CubeIDE, KiCad
+- MATLAB / Simulink, LTspice
+- Oscilloscopes, electronic testing and debugging
+
+## 🚀 Projects & Experience
+
+🔹 **Embedded Air Quality Monitoring System**
+
+Developed a connected air quality monitoring system using STM32 microcontrollers, environmental sensors, wireless communication, and a C++/Qt application.
+
+🔹 **Industrial Automation & Production Tools**
+
+Worked on industrial software, production monitoring, traceability, and automation projects using Python, VB.NET, SQL Server, and PLCs.
+
+🔹 **FPGA & Digital Electronics**
+
+Exploring digital hardware design and verification using VHDL, Quartus, and FPGA development boards.
+
+🔹 **Personal Software Projects**
+
+I also enjoy building applications and experimenting with new ideas, including productivity tools, data dashboards, and web applications.
+
+*More projects and documentation coming soon!*
+
+## 🌍 Currently Looking For
+
+I'm looking for an **international engineering internship for Summer 2027**, ideally in one or more of the following areas:
+
+- Embedded Systems & Firmware Development
+- Electronics & Digital Hardware
+- Software Engineering
+- Industrial Computing & Automation
+- FPGA Design & Verification
+
+I'm excited to work in an international environment, develop my technical skills, and contribute to meaningful engineering projects.
+
+## 📫 Let's Connect
+
+- **GitHub:** [sarahoulmaki-png](https://github.com/sarahoulmaki-png)
+- **LinkedIn:** www\.linkedin.com/in/sara-oulmaki
+- **Portfolio:** Coming soon
+
+---
+
+*Always curious, always learning, and usually working on a new idea.* 💡
