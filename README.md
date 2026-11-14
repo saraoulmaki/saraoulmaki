@@ -35,23 +35,32 @@ I'm particularly interested in projects that combine **hardware and software**, 
 
 ## 🚀 Projects & Experience
 
-🔹 **Embedded Air Quality Monitoring System**
+### Featured Engineering Projects
 
-Developed a connected air quality monitoring system using STM32 microcontrollers, environmental sensors, wireless communication, and a C++/Qt application.
+**🔹 [Connected Air Quality Monitoring System](https://github.com/saraoulmaki/connected-air-quality-monitoring)**  
+Embedded monitoring system using STM32 microcontrollers, environmental sensors, wireless communication, FreeRTOS, and a C++/Qt application.
 
-🔹 **Industrial Automation & Production Tools**
+**🔹 [FPGA VGA Display Controller](https://github.com/saraoulmaki/fpga-vga-display-de10-lite)**  
+Digital hardware project using VHDL and the DE10-Lite FPGA development board, focusing on VGA signal generation and display control.
 
-Worked on industrial software, production monitoring, traceability, and automation projects using Python, VB.NET, SQL Server, and PLCs.
+**🔹 [STM32 CAN Motor Controller](https://github.com/saraoulmaki/stm32-can-motor-controller)**  
+Academic embedded electronics project combining STM32 firmware development, CAN communication, motor control, and PCB design with KiCad. The fabricated board encountered unresolved electrical issues.
 
-🔹 **FPGA & Digital Electronics**
+**🔹 [Raspberry Pi Surveillance Box](https://github.com/saraoulmaki/raspberry-pi-surveillance-box)**  
+Embedded Linux project exploring Raspberry Pi-based monitoring and hardware/software integration.
 
-Exploring digital hardware design and verification using VHDL, Quartus, and FPGA development boards.
+### Software & Creative Projects
 
-🔹 **Personal Software Projects**
+**🔹 [SplashMem – AI Game](https://github.com/saraoulmaki/splashmem-ai-game)**  
+Software project exploring game development and AI-related features.
 
-I also enjoy building applications and experimenting with new ideas, including productivity tools, data dashboards, and web applications.
+### Industrial Experience
 
-*More projects and documentation coming soon!*
+**SNCF Voyageurs – Embedded Electronics Engineering Apprentice**  
+Working on FPGA/CPLD-based solutions for obsolete electronic hardware, with a focus on digital design and VHDL.
+
+**Industrial Automation & Production Software**  
+Experience developing production monitoring, traceability, and automation tools using Python, VB.NET, SQL Server, and PLCs.
 
 ## 🌍 Currently Looking For
 
