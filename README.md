@@ -23,7 +23,7 @@ My main areas of interest include:
 
 I'm eager to contribute to innovative engineering projects, gain international experience, and further develop my technical skills.
 
-📄 **[View my CV / Resume (PDF)](./Sara_Oulmaki_CV.pdf)**
+📄 **[View my CV / Resume (PDF)](./Resume_Sara_OULMAKI.pdf)**
 
 ## 🛠️ Technical Skills
 
