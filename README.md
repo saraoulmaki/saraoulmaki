@@ -1,12 +1,29 @@
+
 # Hi there, I'm Sara! 👋
 
-### Engineering Student | Embedded Systems • Electronics • Software Development
+### Engineering Student | Embedded Systems • Electronics • FPGA • Software Development
 
 I'm a French engineering student at **Polytech Tours**, specializing in Industrial Computing and Embedded Systems.
 
 I enjoy designing, programming, and experimenting with technology, from microcontrollers and electronic circuits to software applications and industrial systems.
 
 I'm particularly interested in projects that combine **hardware and software**, where I can explore new technologies, solve technical challenges, and turn ideas into working prototypes.
+
+## 🌍 Open to International Internship Opportunities — Summer 2027
+
+🎯 **Actively seeking a paid international engineering internship of at least 10 weeks, from late June to early September 2027.**
+
+My main areas of interest include:
+
+- Embedded Systems & Firmware Development
+- Electronics & Digital Hardware
+- FPGA Design & Verification
+- Software Engineering
+- Industrial Computing & Automation
+
+I'm eager to contribute to innovative engineering projects, gain international experience, and further develop my technical skills.
+
+📄 **[View my CV / Resume (PDF)](./Sara_Oulmaki_CV.pdf)**
 
 ## 🛠️ Technical Skills
 
@@ -57,28 +74,19 @@ Software project exploring game development and AI-related features.
 ### Industrial Experience
 
 **SNCF Voyageurs – Embedded Electronics Engineering Apprentice**  
-Working on FPGA/CPLD-based solutions for obsolete electronic hardware, with a focus on digital design and VHDL.
+Working on FPGA/CPLD-based solutions for obsolete electronic hardware, with a focus on digital design, VHDL, and hardware integration.
 
 **Industrial Automation & Production Software**  
 Experience developing production monitoring, traceability, and automation tools using Python, VB.NET, SQL Server, and PLCs.
 
-## 🌍 Currently Looking For
-
-I'm looking for an **international engineering internship for Summer 2027**, ideally in one or more of the following areas:
-
-- Embedded Systems & Firmware Development
-- Electronics & Digital Hardware
-- Software Engineering
-- Industrial Computing & Automation
-- FPGA Design & Verification
-
-I'm excited to work in an international environment, develop my technical skills, and contribute to meaningful engineering projects.
-
 ## 📫 Let's Connect
 
-- **GitHub:** [saraoulmaki](https://github.com/saraoulmaki)
-- **LinkedIn:** www\.linkedin.com/in/sara-oulmaki
-- **Portfolio:** Coming soon
+- 💼 **LinkedIn:** [Sara Oulmaki](https://www.linkedin.com/in/sara-oulmaki)
+- 📄 **CV / Resume:** [View PDF](./Sara_Oulmaki_CV.pdf)
+- 💻 **GitHub:** [saraoulmaki](https://github.com/saraoulmaki)
+- 🌐 **Portfolio:** Coming soon
+
+I'm always open to connecting with engineers, researchers, and teams working on exciting technology projects!
 
 ---
 
