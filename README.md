@@ -82,7 +82,7 @@ Experience developing production monitoring, traceability, and automation tools 
 ## 📫 Let's Connect
 
 - 💼 **LinkedIn:** [Sara Oulmaki](https://www.linkedin.com/in/sara-oulmaki)
-- 📄 **CV / Resume:** [View PDF](./Sara_Oulmaki_CV.pdf)
+- 📄 **CV / Resume:** [View PDF](./Resume_Sara_OULMAKI.pdf)
 - 💻 **GitHub:** [saraoulmaki](https://github.com/saraoulmaki)
 - 🌐 **Portfolio:** Coming soon
 
